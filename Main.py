@@ -3,7 +3,7 @@ from tkinter import *
 from PIL import Image, ImageTk
 from io import BytesIO
 
-API_KEY = "bb77e16095744709bba171327230807"
+API_KEY = ""
 
 
 def clear_entry(event):
